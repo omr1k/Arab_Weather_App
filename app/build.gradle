@@ -8,8 +8,8 @@ android {
         applicationId "com.omarstudiolimited.weatherapp"
         minSdkVersion 23
         targetSdkVersion 30
-        versionCode 2
-        versionName "2"
+        versionCode 3
+        versionName "3"
         setProperty("archivesBaseName", "Weather_arab_capitals")
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }

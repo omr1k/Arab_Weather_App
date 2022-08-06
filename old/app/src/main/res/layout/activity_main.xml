@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/h"
+    android:layout_weight="5">
+
+    <include layout="@layout/toolbar"/>
+
+    <HorizontalScrollView
+        android:layoutDirection="rtl"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <Button
+                android:onClick="iraq"
+                android:background="@color/trans"
+                android:layout_width="200dp"
+                android:layout_height="match_parent"
+                android:text="Iraq"
+                android:textAllCaps="false"
+                android:textSize="@dimen/_15ssp"
+                android:textColor="@color/white"
+                android:drawableTop="@drawable/ic_iraq"/>
+
+            <Button
+                android:textAllCaps="false"
+                android:onClick="jordan"
+                android:background="@color/trans"
+                android:layout_width="200dp"
+                android:layout_height="match_parent"
+                android:text="Jordan"
+                android:textSize="@dimen/_15ssp"
+                android:textColor="@color/white"
+                android:drawableTop="@drawable/ic_jordan"/>
+
+
+
+            <Button
+                android:onClick="syr"
+                android:background="@color/trans"
+                android:layout_width="200dp"
+                android:layout_height="match_parent"
+                android:text="Syria"
+                android:textAllCaps="false"
+                android:textSize="@dimen/_15ssp"
+                android:textColor="@color/white"
+                android:drawableTop="@drawable/ic_syria"/>
+
+
+            <Button
+                android:textAllCaps="false"
+                android:onClick="lebanon"
+                android:background="@color/trans"
+                android:layout_width="200dp"
+                android:layout_height="match_parent"
+                android:text="Lebanon"
+                android:textSize="@dimen/_15ssp"
+                android:textColor="@color/white"
+                android:drawableTop="@drawable/ic_lebanon"/>
+
+
+
+            <Button
+                android:onClick="pla"
+                android:background="@color/trans"
+                android:layout_width="200dp"
+                android:layout_height="match_parent"
+                android:text="Palestine"
+                android:textAllCaps="false"
+                android:textSize="@dimen/_15ssp"
+                android:textColor="@color/white"
+                android:drawableTop="@drawable/ic_palestine"/>
+
+
+            <Button
+                android:onClick="yemen"
+                android:background="@color/trans"
+                android:layout_width="200dp"
+                android:layout_height="match_parent"
+                android:text="Yemen"
+                android:textAllCaps="false"
+                android:textSize="@dimen/_15ssp"
+                android:textColor="@color/white"
+                android:drawableTop="@drawable/ic_yemen"/>
+        </LinearLayout>
+    </HorizontalScrollView>
+
+    <HorizontalScrollView
+        android:layoutDirection="rtl"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+
+            <Button
+                android:textAllCaps="false"
+                android:onClick="ksa"
+                android:background="@color/trans"
+                android:layout_width="200dp"
+                android:layout_height="match_parent"
+                android:text="Saudi Arabia"
+                android:textSize="@dimen/_15ssp"
+                android:textColor="@color/white"
+                android:drawableTop="@drawable/ic_saudi_arabia"/>
+
+            <Button
+                android:onClick="UAE"
+                android:background="@color/trans"
+                android:layout_width="200dp"
+                android:layout_height="match_parent"
+                android:text="UAE"
+                android:textAllCaps="false"
+                android:textSize="@dimen/_15ssp"
+                android:textColor="@color/white"
+                android:drawableTop="@drawable/ic_united_arab_emirates"/>
+
+            <Button
+                android:onClick="bahrain"
+                android:textAllCaps="false"
+                android:background="@color/trans"
+                android:layout_width="200dp"
+                android:layout_height="match_parent"
+                android:text="Bahrain"
+                android:textSize="@dimen/_15ssp"
+                android:textColor="@color/white"
+                android:drawableTop="@drawable/ic_bahrain"/>
+
+
+
+            <Button
+                android:onClick="ku"
+                android:background="@color/trans"
+                android:layout_width="200dp"
+                android:layout_height="match_parent"
+                android:text="Kuwait"
+                android:textAllCaps="false"
+                android:textSize="@dimen/_15ssp"
+                android:textColor="@color/white"
+                android:drawableTop="@drawable/ic__07_kwait"/>
+
+
+            <Button
+                android:onClick="oman"
+                android:background="@color/trans"
+                android:layout_width="200dp"
+                android:layout_height="match_parent"
+                android:text="Oman"
+                android:textAllCaps="false"
+                android:textSize="@dimen/_15ssp"
+                android:textColor="@color/white"
+                android:drawableTop="@drawable/ic_oman"/>
+
+
+            <Button
+                android:onClick="qatar"
+                android:background="@color/trans"
+                android:layout_width="200dp"
+                android:layout_height="match_parent"
+                android:text="Qatar"
+                android:textAllCaps="false"
+                android:textSize="@dimen/_15ssp"
+                android:textColor="@color/white"
+                android:drawableTop="@drawable/ic_qatar"/>
+
+        </LinearLayout>
+    </HorizontalScrollView>
+
+
+    <HorizontalScrollView
+        android:layoutDirection="rtl"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+
+            <Button
+                android:textAllCaps="false"
+                android:onClick="egy"
+                android:background="@color/trans"
+                android:layout_width="200dp"
+                android:layout_height="match_parent"
+                android:text="Egypt"
+                android:textSize="@dimen/_15ssp"
+                android:textColor="@color/white"
+                android:drawableTop="@drawable/ic_egypt"/>
+
+            <Button
+                android:onClick="mor"
+                android:background="@color/trans"
+                android:layout_width="200dp"
+                android:layout_height="match_parent"
+                android:text="Morocco"
+                android:textAllCaps="false"
+                android:textSize="@dimen/_15ssp"
+                android:textColor="@color/white"
+                android:drawableTop="@drawable/ic_morocco__1_"/>
+
+            <Button
+                android:onClick="tni"
+                android:textAllCaps="false"
+                android:background="@color/trans"
+                android:layout_width="200dp"
+                android:layout_height="match_parent"
+                android:text="Tunisia"
+                android:textSize="@dimen/_15ssp"
+                android:textColor="@color/white"
+                android:drawableTop="@drawable/ic_tunisia__1_"/>
+
+
+
+            <Button
+                android:onClick="alg"
+                android:background="@color/trans"
+                android:layout_width="200dp"
+                android:layout_height="match_parent"
+                android:text="Algeria"
+                android:textAllCaps="false"
+                android:textSize="@dimen/_15ssp"
+                android:textColor="@color/white"
+                android:drawableTop="@drawable/ic__44_algeria"/>
+
+
+            <Button
+                android:onClick="lib"
+                android:background="@color/trans"
+                android:layout_width="200dp"
+                android:layout_height="match_parent"
+                android:text="Libya"
+                android:textAllCaps="false"
+                android:textSize="@dimen/_15ssp"
+                android:textColor="@color/white"
+                android:drawableTop="@drawable/ic_libya"/>
+
+        </LinearLayout>
+    </HorizontalScrollView>
+
+
+    <HorizontalScrollView
+        android:layoutDirection="rtl"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+
+            <Button
+                android:textAllCaps="false"
+                android:onClick="sudan"
+                android:background="@color/trans"
+                android:layout_width="200dp"
+                android:layout_height="match_parent"
+                android:text="Sudan"
+                android:textSize="@dimen/_15ssp"
+                android:textColor="@color/white"
+                android:drawableTop="@drawable/ic__99_sudan"/>
+
+            <Button
+                android:onClick="more"
+                android:background="@color/trans"
+                android:layout_width="200dp"
+                android:layout_height="match_parent"
+                android:text="Mauritania"
+                android:textAllCaps="false"
+                android:textSize="@dimen/_15ssp"
+                android:textColor="@color/white"
+                android:drawableTop="@drawable/ic__50_mauritania"/>
+
+            <Button
+                android:onClick="soma"
+                android:textAllCaps="false"
+                android:background="@color/trans"
+                android:layout_width="200dp"
+                android:layout_height="match_parent"
+                android:text="Somalia"
+                android:textSize="@dimen/_15ssp"
+                android:textColor="@color/white"
+                android:drawableTop="@drawable/ic__83_somalia"/>
+
+
+
+            <Button
+                android:onClick="gb"
+                android:background="@color/trans"
+                android:layout_width="200dp"
+                android:layout_height="match_parent"
+                android:text="Djibouti"
+                android:textAllCaps="false"
+                android:textSize="@dimen/_15ssp"
+                android:textColor="@color/white"
+                android:drawableTop="@drawable/ic__68_djibouti"/>
+
+
+            <Button
+                android:onClick="com"
+                android:background="@color/trans"
+                android:layout_width="200dp"
+                android:layout_height="match_parent"
+                android:text="Comoros"
+                android:textAllCaps="false"
+                android:textSize="@dimen/_15ssp"
+                android:textColor="@color/white"
+                android:drawableTop="@drawable/ic__29_comoros"/>
+        </LinearLayout>
+    </HorizontalScrollView>
+
+
+
+</LinearLayout>
+
+

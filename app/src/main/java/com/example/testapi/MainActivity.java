@@ -5,26 +5,12 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
-import android.widget.Button;
-import android.widget.ImageView;
-import android.widget.TextView;
-
-import com.android.volley.Request;
-import com.android.volley.RequestQueue;
-import com.android.volley.Response;
-import com.android.volley.VolleyError;
-import com.android.volley.toolbox.JsonObjectRequest;
-import com.android.volley.toolbox.Volley;
-import com.squareup.picasso.Picasso;
-
-import org.json.JSONArray;
-import org.json.JSONException;
-import org.json.JSONObject;
-
-import java.sql.Time;
-import java.text.SimpleDateFormat;
 
 public class MainActivity extends AppCompatActivity {
+
+
+
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -32,122 +18,104 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-
+public void passingMethod(String city){
+    Intent intent = new Intent(this, MasterClass.class);
+    intent.putExtra("city",city);
+    startActivity(intent);
+}
 
 
     public void jordan(View view) {
-        Intent intent = new Intent(this,MainActivity2.class);
-        startActivity(intent);
+        passingMethod("amman");
     }
 
     public void iraq(View view) {
-        Intent intent = new Intent(this,Main_iraq.class);
-        startActivity(intent);
+        passingMethod("baghdad");
     }
 
     public void syr(View view) {
-        Intent intent = new Intent(this,Main_syria.class);
-        startActivity(intent);
+        passingMethod("damascus");
     }
 
     public void lebanon(View view) {
-        Intent intent = new Intent(this,Main_lebanon.class);
-        startActivity(intent);
+        passingMethod("beirut");
     }
 
     public void pla(View view) {
-        Intent intent = new Intent(this,Main_pla.class);
-        startActivity(intent);
+        passingMethod("jerusalem");
     }
 
     public void yemen(View view) {
-        Intent intent = new Intent(this,Main_yemen.class);
-        startActivity(intent);
+        passingMethod("sanaa");
     }
 
     public void ksa(View view) {
-        Intent intent = new Intent(this,Main_ksa.class);
-        startActivity(intent);
+        passingMethod("riyadh");
     }
 
     public void UAE(View view) {
-        Intent intent = new Intent(this,Main_uae.class);
-        startActivity(intent);
+        passingMethod("dubai");
     }
 
     public void bahrain(View view) {
-        Intent intent = new Intent(this,Main_bah.class);
-        startActivity(intent);
+        passingMethod("manama");
     }
 
     public void ku(View view) {
-        Intent intent = new Intent(this,Main_ku.class);
-        startActivity(intent);
+        passingMethod("kuwait");
     }
 
     public void oman(View view) {
-        Intent intent = new Intent(this,Main_oman.class);
-        startActivity(intent);
+        passingMethod("muscat");
     }
 
     public void qatar(View view) {
-        Intent intent = new Intent(this,Main_qatar.class);
-        startActivity(intent);
+        passingMethod("doha");
     }
 
     public void egy(View view) {
-        Intent intent = new Intent(this,Main_egy.class);
-        startActivity(intent);
+        passingMethod("cairo");
     }
 
     public void mor(View view) {
-        Intent intent = new Intent(this,Main_mor.class);
-        startActivity(intent);
+        passingMethod("Casablanca");
     }
 
     public void tni(View view) {
-        Intent intent = new Intent(this,Main_tni.class);
-        startActivity(intent);
+        passingMethod("tunis");
     }
 
     public void alg(View view) {
-        Intent intent = new Intent(this,Main_alg.class);
-        startActivity(intent);
+        passingMethod("algiers");
     }
 
     public void lib(View view) {
-        Intent intent = new Intent(this,Main_lib.class);
-        startActivity(intent);
+        passingMethod("tripoli");
     }
 
 
     public void sudan(View view) {
-        Intent intent = new Intent(this,Main_sudan.class);
-        startActivity(intent);
+        passingMethod("khartoum");
     }
 
 
     public void more(View view) {
-        Intent intent = new Intent(this,Main_more.class);
-        startActivity(intent);
+        passingMethod("nouakchott");
     }
 
 
     public void soma(View view) {
-        Intent intent = new Intent(this,Main_soma.class);
-        startActivity(intent);
+        passingMethod("mogadishu");
     }
 
 
     public void gb(View view) {
-        Intent intent = new Intent(this,Main_gb.class);
-        startActivity(intent);
+        passingMethod("djibouti");
     }
 
 
     public void com(View view) {
-        Intent intent = new Intent(this,Main_com.class);
-        startActivity(intent);
+        passingMethod("moroni");
     }
 
 }

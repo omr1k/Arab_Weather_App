@@ -1,0 +1,1545 @@
+
+
+
+
+
+
+
+
+
+<!--    <ScrollView-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="match_parent"-->
+<!--        android:fillViewport="true"-->
+<!--        >-->
+
+<!--    <LinearLayout-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="match_parent"-->
+<!--        android:orientation="horizontal">-->
+
+<!--        <LinearLayout-->
+<!--            android:orientation="vertical"-->
+<!--            android:layout_width="0dp"-->
+<!--            android:layout_height="match_parent"-->
+<!--            android:layout_weight="1">-->
+<!--            <Button-->
+<!--                android:textAllCaps="false"-->
+<!--                android:onClick="jordan"-->
+<!--                android:background="@color/colorPrimaryDark"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="200dp"-->
+<!--                android:text="Jordan"-->
+<!--                android:textSize="@dimen/_15ssp"-->
+<!--                android:textColor="@color/white"-->
+<!--                android:drawableTop="@drawable/ic_jordan"/>-->
+<!--            <Button-->
+<!--                android:textAllCaps="false"-->
+<!--                android:onClick="jordan"-->
+<!--                android:background="@color/colorPrimaryDark"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="200dp"-->
+<!--                android:text="Jordan"-->
+<!--                android:textSize="@dimen/_15ssp"-->
+<!--                android:textColor="@color/white"-->
+<!--                android:drawableTop="@drawable/ic_jordan"/>-->
+
+<!--            <Button-->
+<!--                android:textAllCaps="false"-->
+<!--                android:onClick="jordan"-->
+<!--                android:background="@color/colorPrimaryDark"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="200dp"-->
+<!--                android:text="Jordan"-->
+<!--                android:textSize="@dimen/_15ssp"-->
+<!--                android:textColor="@color/white"-->
+<!--                android:drawableTop="@drawable/ic_jordan"/>-->
+<!--            <Button-->
+<!--                android:textAllCaps="false"-->
+<!--                android:onClick="jordan"-->
+<!--                android:background="@color/colorPrimaryDark"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="200dp"-->
+<!--                android:text="Jordan"-->
+<!--                android:textSize="@dimen/_15ssp"-->
+<!--                android:textColor="@color/white"-->
+<!--                android:drawableTop="@drawable/ic_jordan"/>-->
+<!--            <Button-->
+<!--                android:textAllCaps="false"-->
+<!--                android:onClick="jordan"-->
+<!--                android:background="@color/colorPrimaryDark"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="200dp"-->
+<!--                android:text="Jordan"-->
+<!--                android:textSize="@dimen/_15ssp"-->
+<!--                android:textColor="@color/white"-->
+<!--                android:drawableTop="@drawable/ic_jordan"/>-->
+<!--            <Button-->
+<!--                android:textAllCaps="false"-->
+<!--                android:onClick="jordan"-->
+<!--                android:background="@color/colorPrimaryDark"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="200dp"-->
+<!--                android:text="Jordan"-->
+<!--                android:textSize="@dimen/_15ssp"-->
+<!--                android:textColor="@color/white"-->
+<!--                android:drawableTop="@drawable/ic_jordan"/>-->
+
+<!--            <Button-->
+<!--                android:textAllCaps="false"-->
+<!--                android:onClick="jordan"-->
+<!--                android:background="@color/colorPrimaryDark"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="200dp"-->
+<!--                android:text="Jordan"-->
+<!--                android:textSize="@dimen/_15ssp"-->
+<!--                android:textColor="@color/white"-->
+<!--                android:drawableTop="@drawable/ic_jordan"/>-->
+<!--            <Button-->
+<!--                android:textAllCaps="false"-->
+<!--                android:onClick="jordan"-->
+<!--                android:background="@color/colorPrimaryDark"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="200dp"-->
+<!--                android:text="Jordan"-->
+<!--                android:textSize="@dimen/_15ssp"-->
+<!--                android:textColor="@color/white"-->
+<!--                android:drawableTop="@drawable/ic_jordan"/>-->
+
+
+<!--            <Button-->
+<!--                android:textAllCaps="false"-->
+<!--                android:onClick="jordan"-->
+<!--                android:background="@color/colorPrimaryDark"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="200dp"-->
+<!--                android:text="Jordan"-->
+<!--                android:textSize="@dimen/_15ssp"-->
+<!--                android:textColor="@color/white"-->
+<!--                android:drawableTop="@drawable/ic_jordan"/>-->
+<!--            <Button-->
+<!--                android:textAllCaps="false"-->
+<!--                android:onClick="jordan"-->
+<!--                android:background="@color/colorPrimaryDark"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="200dp"-->
+<!--                android:text="Jordan"-->
+<!--                android:textSize="@dimen/_15ssp"-->
+<!--                android:textColor="@color/white"-->
+<!--                android:drawableTop="@drawable/ic_jordan"/>-->
+
+
+<!--            <Button-->
+<!--                android:textAllCaps="false"-->
+<!--                android:onClick="jordan"-->
+<!--                android:background="@color/colorPrimaryDark"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="200dp"-->
+<!--                android:text="Jordan"-->
+<!--                android:textSize="@dimen/_15ssp"-->
+<!--                android:textColor="@color/white"-->
+<!--                android:drawableTop="@drawable/ic_jordan"/>-->
+<!--        </LinearLayout>-->
+
+
+<!--        <LinearLayout-->
+<!--            android:orientation="vertical"-->
+<!--            android:layout_width="0dp"-->
+<!--            android:layout_height="match_parent"-->
+<!--            android:layout_weight="1">-->
+
+<!--            <Button-->
+<!--                android:onClick="iraq"-->
+<!--                android:background="@color/colorPrimaryDark"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="200dp"-->
+<!--                android:text="Iraq"-->
+<!--                android:textAllCaps="false"-->
+<!--                android:textSize="@dimen/_15ssp"-->
+<!--                android:textColor="@color/white"-->
+<!--                android:drawableTop="@drawable/ic_iraq"/>-->
+
+<!--            <Button-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="0dp"-->
+<!--                android:layout_weight="1"-->
+<!--                android:text="Button"/>-->
+<!--            <Button-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="0dp"-->
+<!--                android:layout_weight="1"-->
+<!--                android:text="Button"/>-->
+<!--            <Button-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="0dp"-->
+<!--                android:layout_weight="1"-->
+<!--                android:text="Button"/>-->
+<!--            <Button-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="0dp"-->
+<!--                android:layout_weight="1"-->
+<!--                android:text="Button"/>-->
+<!--            <Button-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="0dp"-->
+<!--                android:layout_weight="1"-->
+<!--                android:text="Button"/>-->
+
+
+<!--        </LinearLayout>-->
+
+
+
+<!--    </LinearLayout>-->
+<!--    </ScrollView>-->
+<!--</LinearLayout>-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--<Button-->
+<!--android:layout_width="match_parent"-->
+<!--android:layout_height="0dp"-->
+<!--android:layout_weight="1"-->
+<!--android:layout_margin="50dp"-->
+<!--android:text=" jordan"-->
+<!--android:textSize="50dp"-->
+<!--android:drawableTop="@drawable/ic_jordan"-->
+<!--android:onClick="jordan"/>-->
+
+
+
+<!--<?xml version="1.0" encoding="utf-8"?>-->
+<!--<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--    android:orientation="vertical"-->
+<!--    android:layout_width="match_parent"-->
+<!--    android:layout_height="match_parent"-->
+<!--    android:padding="25dp"-->
+<!--    android:background="@drawable/gradient_bg">-->
+
+
+
+<!--    <RelativeLayout-->
+<!--        android:id="@+id/mainContainer"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="match_parent"-->
+<!--        android:visibility="visible">-->
+<!--        <LinearLayout android:id="@+id/addressContainer"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:orientation="vertical"-->
+<!--            android:gravity="center">-->
+
+<!--            <TextView android:id="@+id/address"-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:textSize="24dp"-->
+<!--                android:text="DHAKA, BD"/>-->
+
+<!--            <TextView android:id="@+id/updated_at"-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:textSize="14dp"-->
+<!--                android:text="20 April 2012, 20:08 PM"/>-->
+<!--        </LinearLayout>-->
+
+
+<!--        <LinearLayout-->
+<!--            android:id="@+id/overviewContainer"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:orientation="vertical"-->
+<!--            android:layout_centerInParent="true">-->
+
+<!--            <TextView android:id="@+id/status"-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:textSize="18dp"-->
+<!--                android:layout_gravity="center"-->
+<!--                android:text="Clear Sky"/>-->
+<!--            <TextView android:id="@+id/temp"-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:textSize="90dp"-->
+<!--                android:fontFamily="sans-serif-thin"-->
+<!--                android:layout_gravity="center"-->
+<!--                android:text="29°C"/>-->
+
+<!--            <LinearLayout-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:orientation="horizontal"-->
+<!--                android:gravity="center">-->
+<!--                <TextView android:id="@+id/temp_min"-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:text="Min Temp: 05:05 AM"/>-->
+<!--                <Space android:layout_width="50dp"-->
+<!--                    android:layout_height="wrap_content"/>-->
+
+<!--                <TextView android:id="@+id/temp_max"-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:text="Max Temp: 05:05 PM"/>-->
+<!--            </LinearLayout>-->
+
+<!--        </LinearLayout>-->
+
+
+<!--        <LinearLayout-->
+<!--            android:id="@+id/detailsContainer"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:orientation="vertical"-->
+<!--            android:layout_alignParentBottom="true">-->
+<!--            <LinearLayout-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:orientation="horizontal"-->
+<!--                android:weightSum="3">-->
+<!--                <LinearLayout-->
+<!--                    android:layout_width="0dp"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:orientation="vertical"-->
+<!--                    android:layout_weight="1"-->
+<!--                    android:gravity="center"-->
+<!--                    android:padding="8dp"-->
+<!--                    android:background="#3CF1EBF1">-->
+
+<!--                    <ImageView-->
+<!--                        android:layout_width="25dp"-->
+<!--                        android:layout_height="25dp"-->
+<!--                        android:src="@drawable/ic_daytime"-->
+<!--                        />-->
+
+<!--                    <Space android:layout_width="wrap_content" android:layout_height="5dp"/>-->
+<!--                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"-->
+<!--                        android:textSize="12dp" android:text="Sunrise"/>-->
+<!--                    <TextView android:id="@+id/sunrise" android:layout_width="wrap_content"-->
+<!--                        android:layout_height="wrap_content" android:textSize="14dp"-->
+<!--                        android:text="06:40 AM"/>-->
+<!--                </LinearLayout>-->
+<!--                <Space android:layout_width="10dp" android:layout_height="wrap_content"/>-->
+<!--                <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content"-->
+<!--                    android:orientation="vertical" android:layout_weight="1"-->
+<!--                    android:gravity="center" android:padding="8dp"-->
+<!--                    android:background="#3CF1EBF1">-->
+<!--                    <ImageView android:layout_width="25dp" android:layout_height="25dp"-->
+<!--                        android:src="@drawable/sunset" />-->
+<!--                    <Space android:layout_width="wrap_content" android:layout_height="5dp"/>-->
+<!--                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"-->
+<!--                        android:textSize="12dp" android:text="Sunset"/>-->
+<!--                    <TextView android:id="@+id/sunset" android:layout_width="wrap_content"-->
+<!--                        android:layout_height="wrap_content" android:textSize="14dp"-->
+<!--                        android:text="06:40 AM"/>-->
+<!--                </LinearLayout>-->
+<!--                <Space android:layout_width="10dp" android:layout_height="wrap_content"/>-->
+<!--                <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content"-->
+<!--                    android:orientation="vertical" android:layout_weight="1"-->
+<!--                    android:gravity="center" android:padding="8dp"-->
+<!--                    android:background="#3CF1EBF1">-->
+<!--                    <ImageView android:layout_width="25dp" android:layout_height="25dp"-->
+<!--                        android:src="@drawable/wind" />-->
+<!--                    <Space android:layout_width="wrap_content" android:layout_height="5dp"/>-->
+<!--                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"-->
+<!--                        android:textSize="12dp" android:text="Wind"/>-->
+<!--                    <TextView android:id="@+id/wind" android:layout_width="wrap_content"-->
+<!--                        android:layout_height="wrap_content" android:textSize="14dp"-->
+<!--                        android:text="06:40 AM"/>-->
+<!--                </LinearLayout>-->
+<!--            </LinearLayout>-->
+
+<!--            <Space android:layout_width="wrap_content" android:layout_height="10dp"/>-->
+
+<!--            <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content"-->
+<!--                android:orientation="horizontal" android:weightSum="3">-->
+<!--                <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content"-->
+<!--                    android:orientation="vertical" android:layout_weight="1"-->
+<!--                    android:gravity="center" android:padding="8dp"-->
+<!--                    android:background="#3CF1EBF1">-->
+<!--                    <ImageView android:layout_width="25dp" android:layout_height="25dp"-->
+<!--                        android:src="@drawable/pressure" />-->
+<!--                    <Space android:layout_width="wrap_content" android:layout_height="5dp"/>-->
+<!--                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"-->
+<!--                        android:textSize="12dp" android:text="Pressure"/>-->
+<!--                    <TextView android:id="@+id/pressure" android:layout_width="wrap_content"-->
+<!--                        android:layout_height="wrap_content" android:textSize="14dp"-->
+<!--                        android:text="06:40 AM"/>-->
+<!--                </LinearLayout>-->
+<!--                <Space android:layout_width="10dp" android:layout_height="wrap_content"/>-->
+<!--                <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content"-->
+<!--                    android:orientation="vertical" android:layout_weight="1"-->
+<!--                    android:gravity="center" android:padding="8dp"-->
+<!--                    android:background="#3CF1EBF1">-->
+<!--                    <ImageView android:layout_width="25dp" android:layout_height="25dp"-->
+<!--                        android:src="@drawable/humidity" />-->
+<!--                    <Space android:layout_width="wrap_content" android:layout_height="5dp"/>-->
+<!--                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"-->
+<!--                        android:textSize="12dp" android:text="Humidity"/>-->
+<!--                    <TextView android:id="@+id/humidity" android:layout_width="wrap_content"-->
+<!--                        android:layout_height="wrap_content" android:textSize="14dp"-->
+<!--                        android:text="06:40 AM"/>-->
+<!--                </LinearLayout>-->
+<!--                <Space android:layout_width="10dp" android:layout_height="wrap_content"/>-->
+<!--                <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content"-->
+<!--                    android:orientation="vertical" android:layout_weight="1"-->
+<!--                    android:gravity="center" android:padding="8dp"-->
+<!--                    android:background="#3CF1EBF1">-->
+<!--                    <ImageView android:layout_width="25dp" android:layout_height="25dp"-->
+<!--                        android:src="@drawable/info" />-->
+<!--                    <Space android:layout_width="wrap_content" android:layout_height="5dp"/>-->
+<!--                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"-->
+<!--                        android:textSize="12dp" android:text="Created By"/>-->
+<!--                    <TextView android:id="@+id/about" android:layout_width="wrap_content"-->
+<!--                        android:layout_height="wrap_content" android:textSize="14dp"-->
+<!--                        android:text="Evan"/>-->
+<!--                </LinearLayout>-->
+<!--            </LinearLayout>-->
+<!--        </LinearLayout>-->
+<!--    </RelativeLayout>-->
+
+
+<!--    <ProgressBar android:id="@+id/loader" android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content" android:layout_centerInParent="true"-->
+<!--        android:visibility="gone"/>-->
+
+<!--    <TextView android:id="@+id/errorText" android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content" android:layout_centerInParent="true"-->
+<!--        android:visibility="gone" android:text="Something went wrong"/>-->
+
+
+<!--</RelativeLayout>-->
+
+
+
+
+
+<!--<?xml version="1.0" encoding="utf-8"?>-->
+<!--<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--    xmlns:app="http://schemas.android.com/apk/res-auto"-->
+<!--    xmlns:tools="http://schemas.android.com/tools"-->
+<!--    android:layout_width="match_parent"-->
+<!--    android:layout_height="match_parent"-->
+<!--    android:orientation="vertical"-->
+<!--    android:background="@color/colorBlue"-->
+<!--    tools:context=".MainActivity">-->
+
+
+
+<!--    <LinearLayout-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="match_parent"-->
+<!--        android:orientation="vertical"-->
+<!--        >-->
+<!--        <TextView-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:text="Tuesday, 15"-->
+<!--            android:textColor="@color/colorOffWhite"-->
+<!--            android:layout_gravity="center"-->
+<!--            android:fontFamily="casual"-->
+<!--            android:textSize="@dimen/_15ssp"-->
+<!--            android:layout_marginTop="10dp"/>-->
+<!--        <TextView-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:text="Moscow"-->
+<!--            android:textSize="25dp"-->
+<!--            android:textStyle="bold"-->
+<!--            android:fontFamily="casual"-->
+<!--            android:textColor="@color/colorWhite"-->
+<!--            android:layout_marginLeft="20dp"-->
+<!--            />-->
+
+<!--        <LinearLayout-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="90dp"-->
+<!--            android:orientation="horizontal"-->
+<!--            android:layout_marginLeft="15dp"-->
+<!--            android:weightSum="2">-->
+
+<!--            <TextView-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:layout_marginLeft="15dp"-->
+<!--                android:layout_weight="1"-->
+<!--                android:text="+19°"-->
+<!--                android:layout_marginTop="10dp"-->
+<!--                android:textColor="@color/colorWhite"-->
+<!--                android:textSize="45dp"-->
+<!--                android:textStyle="bold" />-->
+
+<!--            <ImageView-->
+<!--                android:layout_width="8dp"-->
+<!--                android:layout_height="90dp"-->
+<!--                android:layout_weight="1"-->
+<!--                android:src="@drawable/bg"-->
+<!--                android:layout_gravity="right"/>-->
+<!--        </LinearLayout>-->
+<!--        <LinearLayout-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:orientation="horizontal"-->
+<!--            android:gravity="center"-->
+<!--            android:layout_marginTop="10dp"-->
+<!--            android:layout_marginLeft="15dp"-->
+<!--            android:weightSum="5">-->
+<!--            <LinearLayout-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:orientation="vertical"-->
+<!--                android:layout_marginLeft="10dp"-->
+<!--                android:layout_weight="1">-->
+<!--                <TextView-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:text="Now"-->
+<!--                    android:layout_marginLeft="10dp"-->
+<!--                    android:textColor="@color/colorOffWhite"-->
+<!--                    />-->
+<!--                <TextView-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:text="12°"-->
+<!--                    android:layout_marginLeft="10dp"-->
+<!--                    android:textColor="@color/colorWhite"-->
+<!--                    />-->
+<!--                <ImageView-->
+<!--                    android:layout_width="40dp"-->
+<!--                    android:layout_height="40dp"-->
+<!--                    android:src="@drawable/bg"/>-->
+
+<!--            </LinearLayout>-->
+<!--            <LinearLayout-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:orientation="vertical"-->
+<!--                android:layout_weight="1">-->
+<!--                <TextView-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:text="Now"-->
+<!--                    android:layout_marginLeft="10dp"-->
+<!--                    android:textColor="@color/colorOffWhite"-->
+<!--                    />-->
+<!--                <TextView-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:text="12°"-->
+<!--                    android:layout_marginLeft="10dp"-->
+<!--                    android:textColor="@color/colorWhite"-->
+<!--                    />-->
+<!--                <ImageView-->
+<!--                    android:layout_width="40dp"-->
+<!--                    android:layout_height="40dp"-->
+<!--                    android:src="@drawable/bg"/>-->
+
+<!--            </LinearLayout>-->
+<!--            <LinearLayout-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:orientation="vertical"-->
+<!--                android:layout_weight="1">-->
+<!--                <TextView-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:text="Now"-->
+<!--                    android:layout_marginLeft="10dp"-->
+<!--                    android:textColor="@color/colorOffWhite"-->
+<!--                    />-->
+<!--                <TextView-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:text="12°"-->
+<!--                    android:layout_marginLeft="10dp"-->
+<!--                    android:textColor="@color/colorWhite"-->
+<!--                    />-->
+<!--                <ImageView-->
+<!--                    android:layout_width="40dp"-->
+<!--                    android:layout_height="40dp"-->
+<!--                    android:src="@drawable/bg"/>-->
+
+<!--            </LinearLayout>-->
+<!--            <LinearLayout-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:orientation="vertical"-->
+<!--                android:layout_weight="1">-->
+<!--                <TextView-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:text="Now"-->
+<!--                    android:layout_marginLeft="10dp"-->
+<!--                    android:textColor="@color/colorOffWhite"-->
+<!--                    />-->
+<!--                <TextView-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:text="12°"-->
+<!--                    android:layout_marginLeft="10dp"-->
+<!--                    android:textColor="@color/colorWhite"-->
+<!--                    />-->
+<!--                <ImageView-->
+<!--                    android:layout_width="40dp"-->
+<!--                    android:layout_height="40dp"-->
+<!--                    android:src="@drawable/bg"/>-->
+
+<!--            </LinearLayout>-->
+<!--            <LinearLayout-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:orientation="vertical"-->
+<!--                android:layout_weight="1">-->
+<!--                <TextView-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:text="Now"-->
+<!--                    android:layout_marginLeft="10dp"-->
+<!--                    android:textColor="@color/colorOffWhite"-->
+<!--                    />-->
+<!--                <TextView-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:text="12°"-->
+<!--                    android:layout_marginLeft="10dp"-->
+<!--                    android:textColor="@color/colorWhite"-->
+<!--                    />-->
+<!--                <ImageView-->
+<!--                    android:layout_width="40dp"-->
+<!--                    android:layout_height="40dp"-->
+<!--                    android:src="@drawable/bg"/>-->
+
+<!--            </LinearLayout>-->
+
+<!--        </LinearLayout>-->
+<!--        <LinearLayout-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:orientation="horizontal"-->
+<!--            android:gravity="center"-->
+<!--            android:layout_marginTop="10dp"-->
+<!--            android:layout_marginLeft="15dp"-->
+<!--            android:weightSum="4">-->
+<!--            <LinearLayout-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:orientation="vertical"-->
+<!--                android:layout_marginLeft="10dp"-->
+<!--                android:layout_weight="1">-->
+<!--                <TextView-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:text="Humidity"-->
+<!--                    android:layout_marginLeft="10dp"-->
+<!--                    android:textColor="@color/colorOffWhite"-->
+<!--                    />-->
+<!--                <TextView-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:text="78%"-->
+<!--                    android:layout_marginLeft="10dp"-->
+<!--                    android:textColor="@color/colorWhite"-->
+<!--                    />-->
+<!--            </LinearLayout>-->
+<!--            <LinearLayout-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:orientation="vertical"-->
+<!--                android:layout_weight="1">-->
+<!--                <TextView-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:text="Wind"-->
+<!--                    android:layout_marginLeft="10dp"-->
+<!--                    android:textColor="@color/colorOffWhite"-->
+<!--                    />-->
+<!--                <TextView-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:text="3m/s"-->
+<!--                    android:layout_marginLeft="10dp"-->
+<!--                    android:textColor="@color/colorWhite"-->
+<!--                    />-->
+
+<!--            </LinearLayout>-->
+<!--            <LinearLayout-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:orientation="vertical"-->
+<!--                android:layout_weight="1">-->
+<!--                <TextView-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:text="Air pressure"-->
+<!--                    android:layout_marginLeft="10dp"-->
+<!--                    android:textColor="@color/colorOffWhite"-->
+<!--                    />-->
+<!--                <TextView-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:text="740.2 mm"-->
+<!--                    android:layout_marginLeft="10dp"-->
+<!--                    android:textColor="@color/colorWhite"-->
+<!--                    />-->
+
+<!--            </LinearLayout>-->
+<!--            <LinearLayout-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:orientation="vertical"-->
+<!--                android:layout_weight="1">-->
+<!--                <TextView-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:text="UV"-->
+<!--                    android:layout_marginLeft="10dp"-->
+<!--                    android:textColor="@color/colorOffWhite"-->
+<!--                    />-->
+<!--                <TextView-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:text="0"-->
+<!--                    android:layout_marginLeft="10dp"-->
+<!--                    android:textColor="@color/colorWhite"-->
+<!--                    />-->
+
+<!--            </LinearLayout>-->
+
+<!--        </LinearLayout>-->
+
+
+<!--        <LinearLayout-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="match_parent"-->
+<!--            android:orientation="vertical"-->
+<!--            android:background="@drawable/bottomlayout"-->
+<!--            android:layout_marginTop="18dp">-->
+
+<!--            <LinearLayout-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="40dp"-->
+<!--                android:orientation="horizontal"-->
+<!--                android:gravity="center"-->
+<!--                android:layout_marginLeft="20dp"-->
+<!--                android:layout_marginTop="20dp"-->
+<!--                android:weightSum="4">-->
+
+<!--                <TextView-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:text="Wednesday, 16"-->
+<!--                    android:textColor="@color/colorOffWhite"-->
+<!--                    android:layout_marginTop="10dp"-->
+<!--                    android:layout_gravity="center"-->
+<!--                    android:layout_weight="1"/>-->
+<!--                <ImageView-->
+<!--                    android:layout_width="30dp"-->
+<!--                    android:layout_height="30dp"-->
+<!--                    android:src="@drawable/cloud"-->
+<!--                    android:layout_weight="1"-->
+<!--                    android:layout_marginTop="5dp"-->
+<!--                    android:layout_marginLeft="50dp"/>-->
+<!--                <TextView-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:text="12°"-->
+<!--                    android:layout_weight="1"-->
+<!--                    android:layout_marginTop="10dp"-->
+<!--                    android:textColor="@color/colorWhite"-->
+<!--                    android:layout_marginLeft="10dp"-->
+<!--                    />-->
+<!--                <TextView-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:text="12°"-->
+<!--                    android:layout_weight="1"-->
+<!--                    android:layout_marginTop="10dp"-->
+<!--                    android:textColor="@color/colorOffWhite"-->
+<!--                    />-->
+
+<!--            </LinearLayout>-->
+<!--            <LinearLayout-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="50dp"-->
+<!--                android:orientation="horizontal"-->
+<!--                android:gravity="center"-->
+<!--                android:layout_marginLeft="20dp"-->
+<!--                android:weightSum="4">-->
+
+<!--                <TextView-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:text="Wednesday, 16"-->
+<!--                    android:textColor="@color/colorOffWhite"-->
+<!--                    android:layout_marginTop="10dp"-->
+<!--                    android:layout_gravity="center"-->
+<!--                    android:layout_weight="1"/>-->
+<!--                <ImageView-->
+<!--                    android:layout_width="30dp"-->
+<!--                    android:layout_height="30dp"-->
+<!--                    android:src="@drawable/cloud"-->
+<!--                    android:layout_weight="1"-->
+<!--                    android:layout_marginTop="5dp"-->
+<!--                    android:layout_marginLeft="50dp"/>-->
+<!--                <TextView-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:text="12°"-->
+<!--                    android:layout_weight="1"-->
+<!--                    android:layout_marginTop="10dp"-->
+<!--                    android:textColor="@color/colorWhite"-->
+<!--                    android:layout_marginLeft="10dp"-->
+<!--                    />-->
+<!--                <TextView-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:text="12°"-->
+<!--                    android:layout_weight="1"-->
+<!--                    android:layout_marginTop="10dp"-->
+<!--                    android:textColor="@color/colorOffWhite"-->
+<!--                    />-->
+
+<!--            </LinearLayout>-->
+<!--            <LinearLayout-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="50dp"-->
+<!--                android:orientation="horizontal"-->
+<!--                android:gravity="center"-->
+<!--                android:layout_marginLeft="20dp"-->
+<!--                android:weightSum="4">-->
+
+<!--                <TextView-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:text="Wednesday, 16"-->
+<!--                    android:textColor="@color/colorOffWhite"-->
+<!--                    android:layout_marginTop="10dp"-->
+<!--                    android:layout_gravity="center"-->
+<!--                    android:layout_weight="1"/>-->
+<!--                <ImageView-->
+<!--                    android:layout_width="30dp"-->
+<!--                    android:layout_height="30dp"-->
+<!--                    android:src="@drawable/cloud"-->
+<!--                    android:layout_weight="1"-->
+<!--                    android:layout_marginTop="5dp"-->
+<!--                    android:layout_marginLeft="50dp"/>-->
+<!--                <TextView-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:text="12°"-->
+<!--                    android:layout_weight="1"-->
+<!--                    android:layout_marginTop="10dp"-->
+<!--                    android:textColor="@color/colorWhite"-->
+<!--                    android:layout_marginLeft="10dp"-->
+<!--                    />-->
+<!--                <TextView-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:text="12°"-->
+<!--                    android:layout_weight="1"-->
+<!--                    android:layout_marginTop="10dp"-->
+<!--                    android:textColor="@color/colorOffWhite"-->
+<!--                    />-->
+
+<!--            </LinearLayout>-->
+<!--            <LinearLayout-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="50dp"-->
+<!--                android:orientation="horizontal"-->
+<!--                android:gravity="center"-->
+<!--                android:layout_marginLeft="20dp"-->
+<!--                android:weightSum="4">-->
+
+<!--                <TextView-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:text="Wednesday, 16"-->
+<!--                    android:textColor="@color/colorOffWhite"-->
+<!--                    android:layout_marginTop="10dp"-->
+<!--                    android:layout_gravity="center"-->
+<!--                    android:layout_weight="1"/>-->
+<!--                <ImageView-->
+<!--                    android:layout_width="30dp"-->
+<!--                    android:layout_height="30dp"-->
+<!--                    android:src="@drawable/cloud"-->
+<!--                    android:layout_weight="1"-->
+<!--                    android:layout_marginTop="5dp"-->
+<!--                    android:layout_marginLeft="50dp"/>-->
+<!--                <TextView-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:text="12°"-->
+<!--                    android:layout_weight="1"-->
+<!--                    android:layout_marginTop="10dp"-->
+<!--                    android:textColor="@color/colorWhite"-->
+<!--                    android:layout_marginLeft="10dp"-->
+<!--                    />-->
+<!--                <TextView-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:text="12°"-->
+<!--                    android:layout_weight="1"-->
+<!--                    android:layout_marginTop="10dp"-->
+<!--                    android:textColor="@color/colorOffWhite"-->
+<!--                    />-->
+
+<!--            </LinearLayout>-->
+<!--            <LinearLayout-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="50dp"-->
+<!--                android:orientation="horizontal"-->
+<!--                android:gravity="center"-->
+<!--                android:layout_marginLeft="20dp"-->
+<!--                android:weightSum="4">-->
+
+<!--                <TextView-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:text="Wednesday, 16"-->
+<!--                    android:textColor="@color/colorOffWhite"-->
+<!--                    android:layout_marginTop="10dp"-->
+<!--                    android:layout_gravity="center"-->
+<!--                    android:layout_weight="1"/>-->
+<!--                <ImageView-->
+<!--                    android:layout_width="30dp"-->
+<!--                    android:layout_height="30dp"-->
+<!--                    android:src="@drawable/cloud"-->
+<!--                    android:layout_weight="1"-->
+<!--                    android:layout_marginTop="5dp"-->
+<!--                    android:layout_marginLeft="50dp"/>-->
+<!--                <TextView-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:text="12°"-->
+<!--                    android:layout_weight="1"-->
+<!--                    android:layout_marginTop="10dp"-->
+<!--                    android:textColor="@color/colorWhite"-->
+<!--                    android:layout_marginLeft="10dp"-->
+<!--                    />-->
+<!--                <TextView-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:text="12°"-->
+<!--                    android:layout_weight="1"-->
+<!--                    android:layout_marginTop="10dp"-->
+<!--                    android:textColor="@color/colorOffWhite"-->
+<!--                    />-->
+
+<!--            </LinearLayout>-->
+<!--            <LinearLayout-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="50dp"-->
+<!--                android:orientation="horizontal"-->
+<!--                android:gravity="center"-->
+<!--                android:layout_marginLeft="20dp"-->
+<!--                android:weightSum="4">-->
+
+<!--                <TextView-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:text="Wednesday, 16"-->
+<!--                    android:textColor="@color/colorOffWhite"-->
+<!--                    android:layout_marginTop="10dp"-->
+<!--                    android:layout_gravity="center"-->
+<!--                    android:layout_weight="1"/>-->
+<!--                <ImageView-->
+<!--                    android:layout_width="30dp"-->
+<!--                    android:layout_height="30dp"-->
+<!--                    android:src="@drawable/cloud"-->
+<!--                    android:layout_weight="1"-->
+<!--                    android:layout_marginTop="5dp"-->
+<!--                    android:layout_marginLeft="50dp"/>-->
+<!--                <TextView-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:text="12°"-->
+<!--                    android:layout_weight="1"-->
+<!--                    android:layout_marginTop="10dp"-->
+<!--                    android:textColor="@color/colorWhite"-->
+<!--                    android:layout_marginLeft="10dp"-->
+<!--                    />-->
+<!--                <TextView-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:text="12°"-->
+<!--                    android:layout_weight="1"-->
+<!--                    android:layout_marginTop="10dp"-->
+<!--                    android:textColor="@color/colorOffWhite"-->
+<!--                    />-->
+
+<!--            </LinearLayout>-->
+<!--            <LinearLayout-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="50dp"-->
+<!--                android:orientation="horizontal"-->
+<!--                android:gravity="center"-->
+<!--                android:layout_marginLeft="20dp"-->
+<!--                android:weightSum="4">-->
+
+<!--                <TextView-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:text="Wednesday, 16"-->
+<!--                    android:textColor="@color/colorOffWhite"-->
+<!--                    android:layout_marginTop="10dp"-->
+<!--                    android:layout_gravity="center"-->
+<!--                    android:layout_weight="1"/>-->
+<!--                <ImageView-->
+<!--                    android:layout_width="30dp"-->
+<!--                    android:layout_height="30dp"-->
+<!--                    android:src="@drawable/cloud"-->
+<!--                    android:layout_weight="1"-->
+<!--                    android:layout_marginTop="5dp"-->
+<!--                    android:layout_marginLeft="50dp"/>-->
+<!--                <TextView-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:text="12°"-->
+<!--                    android:layout_weight="1"-->
+<!--                    android:layout_marginTop="10dp"-->
+<!--                    android:textColor="@color/colorWhite"-->
+<!--                    android:layout_marginLeft="10dp"-->
+<!--                    />-->
+<!--                <TextView-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:text="12°"-->
+<!--                    android:layout_weight="1"-->
+<!--                    android:layout_marginTop="10dp"-->
+<!--                    android:textColor="@color/colorOffWhite"-->
+<!--                    />-->
+
+<!--            </LinearLayout>-->
+
+<!--        </LinearLayout>-->
+
+
+
+<!--    </LinearLayout>-->
+
+<!--</LinearLayout>-->
+
+
+
+
+<!--&lt;!&ndash;<?xml version="1.0" encoding="utf-8"?>&ndash;&gt;-->
+<!--&lt;!&ndash;<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"&ndash;&gt;-->
+<!--&lt;!&ndash;    android:layout_width="match_parent"&ndash;&gt;-->
+<!--&lt;!&ndash;    android:layout_height="match_parent"&ndash;&gt;-->
+<!--&lt;!&ndash;    android:orientation="vertical"&ndash;&gt;-->
+<!--&lt;!&ndash;    android:background="@drawable/ggg">&ndash;&gt;-->
+
+
+<!--&lt;!&ndash;    <include layout="@layout/toolbar"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:id="@+id/mytoolbar"/>&ndash;&gt;-->
+
+
+<!--&lt;!&ndash;    <TextView&ndash;&gt;-->
+<!--&lt;!&ndash;        android:fontFamily="@font/fo"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:id="@+id/ctv"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:paddingTop="25dp"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:textSize="50dp"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:textAlignment="center"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:textColor="#000000"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:layout_width="match_parent"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:layout_height="0dp"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:layout_weight="1"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:text="Amman" />&ndash;&gt;-->
+
+
+<!--&lt;!&ndash;    <TextView&ndash;&gt;-->
+<!--&lt;!&ndash;        android:fontFamily="@font/fo"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:id="@+id/contv"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:textSize="25dp"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:textAlignment="center"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:textColor="#000000"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:layout_width="match_parent"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:layout_height="0dp"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:layout_weight="0.5"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:text="Haze" />&ndash;&gt;-->
+
+<!--&lt;!&ndash;    <TextView&ndash;&gt;-->
+<!--&lt;!&ndash;        android:fontFamily="@font/fo"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:id="@+id/ttv"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:textSize="100dp"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:textAlignment="center"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:textColor="#000000"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:layout_width="match_parent"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:layout_height="0dp"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:layout_weight="1.5"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:text="32°C" />&ndash;&gt;-->
+
+<!--&lt;!&ndash;    <LinearLayout&ndash;&gt;-->
+<!--&lt;!&ndash;        android:layout_width="match_parent"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:layout_height="0dp"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:layout_weight="0.8"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:orientation="horizontal">&ndash;&gt;-->
+
+
+<!--&lt;!&ndash;        <TextView&ndash;&gt;-->
+<!--&lt;!&ndash;            android:fontFamily="@font/fo"&ndash;&gt;-->
+<!--&lt;!&ndash;            android:id="@+id/htv"&ndash;&gt;-->
+<!--&lt;!&ndash;            android:padding="5dp"&ndash;&gt;-->
+<!--&lt;!&ndash;            android:drawableRight="@drawable/ic_high_temperature__1_"&ndash;&gt;-->
+<!--&lt;!&ndash;            android:textSize="25dp"&ndash;&gt;-->
+<!--&lt;!&ndash;            android:gravity="center"&ndash;&gt;-->
+<!--&lt;!&ndash;            android:textColor="#000000"&ndash;&gt;-->
+<!--&lt;!&ndash;            android:layout_width="0dp"&ndash;&gt;-->
+<!--&lt;!&ndash;            android:layout_height="match_parent"&ndash;&gt;-->
+<!--&lt;!&ndash;            android:layout_weight="1"&ndash;&gt;-->
+<!--&lt;!&ndash;            android:text="H:35" />&ndash;&gt;-->
+
+<!--&lt;!&ndash;        <TextView&ndash;&gt;-->
+<!--&lt;!&ndash;            android:fontFamily="@font/fo"&ndash;&gt;-->
+<!--&lt;!&ndash;            android:id="@+id/ltv"&ndash;&gt;-->
+<!--&lt;!&ndash;            android:padding="5dp"&ndash;&gt;-->
+<!--&lt;!&ndash;            android:drawableLeft="@drawable/ic_low_temperature"&ndash;&gt;-->
+<!--&lt;!&ndash;            android:textSize="25dp"&ndash;&gt;-->
+<!--&lt;!&ndash;            android:gravity="center"&ndash;&gt;-->
+<!--&lt;!&ndash;            android:textColor="#000000"&ndash;&gt;-->
+<!--&lt;!&ndash;            android:layout_width="0dp"&ndash;&gt;-->
+<!--&lt;!&ndash;            android:layout_height="match_parent"&ndash;&gt;-->
+<!--&lt;!&ndash;            android:layout_weight="1"&ndash;&gt;-->
+<!--&lt;!&ndash;            android:text="L:17" />&ndash;&gt;-->
+
+<!--&lt;!&ndash;    </LinearLayout>&ndash;&gt;-->
+
+
+
+<!--&lt;!&ndash;    <TextView&ndash;&gt;-->
+<!--&lt;!&ndash;        android:fontFamily="@font/fo"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:id="@+id/fltv"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:gravity="center"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:textSize="25dp"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:textColor="#000000"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:layout_width="match_parent"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:layout_height="0dp"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:layout_weight="0.5"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:text="Feels like : 21°C"/>&ndash;&gt;-->
+
+
+
+<!--&lt;!&ndash;    <LinearLayout&ndash;&gt;-->
+<!--&lt;!&ndash;        android:layout_width="match_parent"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:layout_height="0dp"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:layout_weight="1"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:orientation="horizontal">&ndash;&gt;-->
+
+<!--&lt;!&ndash;    <TextView&ndash;&gt;-->
+<!--&lt;!&ndash;        android:fontFamily="@font/fo"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:id="@+id/vtv"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:paddingLeft="10dp"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:paddingRight="5dp"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:drawableRight="@drawable/ic_scope"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:textSize="25dp"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:gravity="center"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:textColor="#000000"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:layout_width="0dp"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:layout_height="match_parent"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:layout_weight="1"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:text="Visibility  13 km"/>&ndash;&gt;-->
+
+
+<!--&lt;!&ndash;        <TextView&ndash;&gt;-->
+<!--&lt;!&ndash;            android:fontFamily="@font/fo"&ndash;&gt;-->
+<!--&lt;!&ndash;            android:id="@+id/hutv"&ndash;&gt;-->
+<!--&lt;!&ndash;            android:paddingLeft="5dp"&ndash;&gt;-->
+<!--&lt;!&ndash;            android:paddingRight="10dp"&ndash;&gt;-->
+<!--&lt;!&ndash;            android:drawableLeft="@drawable/ic_humidity"&ndash;&gt;-->
+<!--&lt;!&ndash;            android:textSize="25dp"&ndash;&gt;-->
+<!--&lt;!&ndash;            android:gravity="center"&ndash;&gt;-->
+<!--&lt;!&ndash;            android:textColor="#000000"&ndash;&gt;-->
+<!--&lt;!&ndash;            android:layout_width="0dp"&ndash;&gt;-->
+<!--&lt;!&ndash;            android:layout_height="match_parent"&ndash;&gt;-->
+<!--&lt;!&ndash;            android:layout_weight="1"&ndash;&gt;-->
+<!--&lt;!&ndash;            android:text="Humidity 99 %"/>&ndash;&gt;-->
+
+<!--&lt;!&ndash;    </LinearLayout>&ndash;&gt;-->
+
+
+
+<!--&lt;!&ndash;    <LinearLayout&ndash;&gt;-->
+<!--&lt;!&ndash;        android:layout_marginTop="5dp"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:layout_width="match_parent"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:layout_height="0dp"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:layout_weight="1"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:orientation="horizontal">&ndash;&gt;-->
+
+
+<!--&lt;!&ndash;        <TextView&ndash;&gt;-->
+<!--&lt;!&ndash;            android:fontFamily="@font/fo"&ndash;&gt;-->
+<!--&lt;!&ndash;            android:id="@+id/srtv"&ndash;&gt;-->
+<!--&lt;!&ndash;            android:drawableTop="@drawable/ic_daytime"&ndash;&gt;-->
+<!--&lt;!&ndash;            android:textSize="25dp"&ndash;&gt;-->
+<!--&lt;!&ndash;            android:textAlignment="center"&ndash;&gt;-->
+<!--&lt;!&ndash;            android:textColor="#000000"&ndash;&gt;-->
+<!--&lt;!&ndash;            android:layout_width="0dp"&ndash;&gt;-->
+<!--&lt;!&ndash;            android:layout_height="match_parent"&ndash;&gt;-->
+<!--&lt;!&ndash;            android:layout_weight="1"&ndash;&gt;-->
+<!--&lt;!&ndash;            android:text="sunrase:3.15 am" />&ndash;&gt;-->
+
+<!--&lt;!&ndash;        <TextView&ndash;&gt;-->
+<!--&lt;!&ndash;            android:fontFamily="@font/fo"&ndash;&gt;-->
+<!--&lt;!&ndash;            android:id="@+id/sstv"&ndash;&gt;-->
+<!--&lt;!&ndash;            android:drawableTop="@drawable/ic_sunset__1_"&ndash;&gt;-->
+<!--&lt;!&ndash;            android:textSize="25dp"&ndash;&gt;-->
+<!--&lt;!&ndash;            android:textAlignment="center"&ndash;&gt;-->
+<!--&lt;!&ndash;            android:textColor="#000000"&ndash;&gt;-->
+<!--&lt;!&ndash;            android:layout_width="0dp"&ndash;&gt;-->
+<!--&lt;!&ndash;            android:layout_height="match_parent"&ndash;&gt;-->
+<!--&lt;!&ndash;            android:layout_weight="1"&ndash;&gt;-->
+<!--&lt;!&ndash;            android:text="sunset:5.54 pm" />&ndash;&gt;-->
+
+<!--&lt;!&ndash;    </LinearLayout>&ndash;&gt;-->
+
+<!--&lt;!&ndash;    &ndash;&gt;-->
+
+<!--&lt;!&ndash;</LinearLayout>&ndash;&gt;-->
+
+
+
+
+
+
+
+
+
+
+<!--&lt;!&ndash;&lt;!&ndash;<?xml version="1.0" encoding="utf-8"?>&ndash;&gt;&ndash;&gt;-->
+<!--&lt;!&ndash;&lt;!&ndash;<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"&ndash;&gt;&ndash;&gt;-->
+<!--&lt;!&ndash;&lt;!&ndash;android:layout_width="match_parent"&ndash;&gt;&ndash;&gt;-->
+<!--&lt;!&ndash;&lt;!&ndash;    android:layout_height="match_parent"&ndash;&gt;&ndash;&gt;-->
+<!--&lt;!&ndash;&lt;!&ndash;    android:orientation="vertical">&ndash;&gt;&ndash;&gt;-->
+
+
+<!--&lt;!&ndash;&lt;!&ndash;    <TextView&ndash;&gt;&ndash;&gt;-->
+<!--&lt;!&ndash;&lt;!&ndash;        android:textAlignment="center"&ndash;&gt;&ndash;&gt;-->
+<!--&lt;!&ndash;&lt;!&ndash;        android:textSize="25dp"&ndash;&gt;&ndash;&gt;-->
+<!--&lt;!&ndash;&lt;!&ndash;        android:textColor="#000000"&ndash;&gt;&ndash;&gt;-->
+<!--&lt;!&ndash;&lt;!&ndash;        android:id="@+id/t1"&ndash;&gt;&ndash;&gt;-->
+<!--&lt;!&ndash;&lt;!&ndash;        android:layout_margin="5dp"&ndash;&gt;&ndash;&gt;-->
+<!--&lt;!&ndash;&lt;!&ndash;        android:layout_width="match_parent"&ndash;&gt;&ndash;&gt;-->
+<!--&lt;!&ndash;&lt;!&ndash;        android:layout_height="0dp"&ndash;&gt;&ndash;&gt;-->
+<!--&lt;!&ndash;&lt;!&ndash;        android:layout_weight="1"&ndash;&gt;&ndash;&gt;-->
+<!--&lt;!&ndash;&lt;!&ndash;        android:background="#C0CA33"/>&ndash;&gt;&ndash;&gt;-->
+
+<!--&lt;!&ndash;&lt;!&ndash;    <TextView&ndash;&gt;&ndash;&gt;-->
+<!--&lt;!&ndash;&lt;!&ndash;        android:textAlignment="center"&ndash;&gt;&ndash;&gt;-->
+<!--&lt;!&ndash;&lt;!&ndash;        android:textSize="25dp"&ndash;&gt;&ndash;&gt;-->
+<!--&lt;!&ndash;&lt;!&ndash;        android:textColor="#000000"&ndash;&gt;&ndash;&gt;-->
+<!--&lt;!&ndash;&lt;!&ndash;        android:id="@+id/t2"&ndash;&gt;&ndash;&gt;-->
+<!--&lt;!&ndash;&lt;!&ndash;        android:layout_margin="5dp"&ndash;&gt;&ndash;&gt;-->
+<!--&lt;!&ndash;&lt;!&ndash;        android:layout_width="match_parent"&ndash;&gt;&ndash;&gt;-->
+<!--&lt;!&ndash;&lt;!&ndash;        android:layout_height="0dp"&ndash;&gt;&ndash;&gt;-->
+<!--&lt;!&ndash;&lt;!&ndash;        android:layout_weight="1"&ndash;&gt;&ndash;&gt;-->
+<!--&lt;!&ndash;&lt;!&ndash;        android:background="#E040FB"/>&ndash;&gt;&ndash;&gt;-->
+
+<!--&lt;!&ndash;&lt;!&ndash;    <TextView&ndash;&gt;&ndash;&gt;-->
+<!--&lt;!&ndash;&lt;!&ndash;        android:textAlignment="center"&ndash;&gt;&ndash;&gt;-->
+<!--&lt;!&ndash;&lt;!&ndash;        android:textSize="25dp"&ndash;&gt;&ndash;&gt;-->
+<!--&lt;!&ndash;&lt;!&ndash;        android:textColor="#000000"&ndash;&gt;&ndash;&gt;-->
+<!--&lt;!&ndash;&lt;!&ndash;        android:id="@+id/t3"&ndash;&gt;&ndash;&gt;-->
+<!--&lt;!&ndash;&lt;!&ndash;        android:layout_margin="5dp"&ndash;&gt;&ndash;&gt;-->
+<!--&lt;!&ndash;&lt;!&ndash;        android:layout_width="match_parent"&ndash;&gt;&ndash;&gt;-->
+<!--&lt;!&ndash;&lt;!&ndash;        android:layout_height="0dp"&ndash;&gt;&ndash;&gt;-->
+<!--&lt;!&ndash;&lt;!&ndash;        android:layout_weight="1"&ndash;&gt;&ndash;&gt;-->
+<!--&lt;!&ndash;&lt;!&ndash;        android:background="#5E35B1"/>&ndash;&gt;&ndash;&gt;-->
+
+
+<!--&lt;!&ndash;&lt;!&ndash;    <TextView&ndash;&gt;&ndash;&gt;-->
+<!--&lt;!&ndash;&lt;!&ndash;        android:textAlignment="center"&ndash;&gt;&ndash;&gt;-->
+<!--&lt;!&ndash;&lt;!&ndash;        android:textSize="25dp"&ndash;&gt;&ndash;&gt;-->
+<!--&lt;!&ndash;&lt;!&ndash;        android:textColor="#000000"&ndash;&gt;&ndash;&gt;-->
+<!--&lt;!&ndash;&lt;!&ndash;        android:id="@+id/t4"&ndash;&gt;&ndash;&gt;-->
+<!--&lt;!&ndash;&lt;!&ndash;        android:layout_margin="5dp"&ndash;&gt;&ndash;&gt;-->
+<!--&lt;!&ndash;&lt;!&ndash;        android:layout_width="match_parent"&ndash;&gt;&ndash;&gt;-->
+<!--&lt;!&ndash;&lt;!&ndash;        android:layout_height="0dp"&ndash;&gt;&ndash;&gt;-->
+<!--&lt;!&ndash;&lt;!&ndash;        android:layout_weight="1"&ndash;&gt;&ndash;&gt;-->
+<!--&lt;!&ndash;&lt;!&ndash;        android:background="#43A047"/>&ndash;&gt;&ndash;&gt;-->
+
+
+<!--&lt;!&ndash;&lt;!&ndash;    <TextView&ndash;&gt;&ndash;&gt;-->
+<!--&lt;!&ndash;&lt;!&ndash;        android:textAlignment="center"&ndash;&gt;&ndash;&gt;-->
+<!--&lt;!&ndash;&lt;!&ndash;        android:textSize="25dp"&ndash;&gt;&ndash;&gt;-->
+<!--&lt;!&ndash;&lt;!&ndash;        android:textColor="#000000"&ndash;&gt;&ndash;&gt;-->
+<!--&lt;!&ndash;&lt;!&ndash;        android:id="@+id/t5"&ndash;&gt;&ndash;&gt;-->
+<!--&lt;!&ndash;&lt;!&ndash;        android:layout_margin="5dp"&ndash;&gt;&ndash;&gt;-->
+<!--&lt;!&ndash;&lt;!&ndash;        android:layout_width="match_parent"&ndash;&gt;&ndash;&gt;-->
+<!--&lt;!&ndash;&lt;!&ndash;        android:layout_height="0dp"&ndash;&gt;&ndash;&gt;-->
+<!--&lt;!&ndash;&lt;!&ndash;        android:layout_weight="1"&ndash;&gt;&ndash;&gt;-->
+<!--&lt;!&ndash;&lt;!&ndash;        android:background="#E53935"/>&ndash;&gt;&ndash;&gt;-->
+
+
+<!--&lt;!&ndash;&lt;!&ndash;</LinearLayout>&ndash;&gt;&ndash;&gt;-->
+
+
+
+
+
+
+
+
+
+
+  <!--<?xml version="1.0" encoding="utf-8"?>-->
+<!--<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--    android:layout_width="match_parent"-->
+<!--    android:layout_height="match_parent"-->
+<!--    android:orientation="vertical"-->
+<!--    android:background="@drawable/ggg">-->
+
+
+<!--    <include layout="@layout/toolbar"-->
+<!--        android:id="@+id/mytoolbar"/>-->
+
+
+<!--    <TextView-->
+<!--        android:fontFamily="@font/fo"-->
+<!--        android:id="@+id/ctv"-->
+<!--        android:paddingTop="25dp"-->
+<!--        android:textSize="50dp"-->
+<!--        android:textAlignment="center"-->
+<!--        android:textColor="#000000"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="0dp"-->
+<!--        android:layout_weight="1"-->
+<!--        android:text="Amman" />-->
+
+
+<!--    <TextView-->
+<!--        android:fontFamily="@font/fo"-->
+<!--        android:id="@+id/contv"-->
+<!--        android:textSize="25dp"-->
+<!--        android:textAlignment="center"-->
+<!--        android:textColor="#000000"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="0dp"-->
+<!--        android:layout_weight="0.5"-->
+<!--        android:text="Haze" />-->
+
+<!--    <TextView-->
+<!--        android:fontFamily="@font/fo"-->
+<!--        android:id="@+id/ttv"-->
+<!--        android:textSize="100dp"-->
+<!--        android:textAlignment="center"-->
+<!--        android:textColor="#000000"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="0dp"-->
+<!--        android:layout_weight="1.5"-->
+<!--        android:text="32°C" />-->
+
+<!--    <LinearLayout-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="0dp"-->
+<!--        android:layout_weight="0.8"-->
+<!--        android:orientation="horizontal">-->
+
+
+<!--        <TextView-->
+<!--            android:fontFamily="@font/fo"-->
+<!--            android:id="@+id/htv"-->
+<!--            android:padding="5dp"-->
+<!--            android:drawableRight="@drawable/ic_high_temperature__1_"-->
+<!--            android:textSize="25dp"-->
+<!--            android:gravity="center"-->
+<!--            android:textColor="#000000"-->
+<!--            android:layout_width="0dp"-->
+<!--            android:layout_height="match_parent"-->
+<!--            android:layout_weight="1"-->
+<!--            android:text="H:35" />-->
+
+<!--        <TextView-->
+<!--            android:fontFamily="@font/fo"-->
+<!--            android:id="@+id/ltv"-->
+<!--            android:padding="5dp"-->
+<!--            android:drawableLeft="@drawable/ic_low_temperature"-->
+<!--            android:textSize="25dp"-->
+<!--            android:gravity="center"-->
+<!--            android:textColor="#000000"-->
+<!--            android:layout_width="0dp"-->
+<!--            android:layout_height="match_parent"-->
+<!--            android:layout_weight="1"-->
+<!--            android:text="L:17" />-->
+
+<!--    </LinearLayout>-->
+
+
+
+<!--    <TextView-->
+<!--        android:fontFamily="@font/fo"-->
+<!--        android:id="@+id/fltv"-->
+<!--        android:gravity="center"-->
+<!--        android:textSize="25dp"-->
+<!--        android:textColor="#000000"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="0dp"-->
+<!--        android:layout_weight="0.5"-->
+<!--        android:text="Feels like : 21°C"/>-->
+
+
+
+<!--    <LinearLayout-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="0dp"-->
+<!--        android:layout_weight="1"-->
+<!--        android:orientation="horizontal">-->
+
+<!--        <TextView-->
+<!--            android:fontFamily="@font/fo"-->
+<!--            android:id="@+id/vtv"-->
+<!--            android:paddingLeft="10dp"-->
+<!--            android:paddingRight="5dp"-->
+<!--            android:drawableRight="@drawable/ic_scope"-->
+<!--            android:textSize="25dp"-->
+<!--            android:gravity="center"-->
+<!--            android:textColor="#000000"-->
+<!--            android:layout_width="0dp"-->
+<!--            android:layout_height="match_parent"-->
+<!--            android:layout_weight="1"-->
+<!--            android:text="Visibility  13 km"/>-->
+
+
+<!--        <TextView-->
+<!--            android:fontFamily="@font/fo"-->
+<!--            android:id="@+id/hutv"-->
+<!--            android:paddingLeft="5dp"-->
+<!--            android:paddingRight="10dp"-->
+<!--            android:drawableLeft="@drawable/ic_humidity"-->
+<!--            android:textSize="25dp"-->
+<!--            android:gravity="center"-->
+<!--            android:textColor="#000000"-->
+<!--            android:layout_width="0dp"-->
+<!--            android:layout_height="match_parent"-->
+<!--            android:layout_weight="1"-->
+<!--            android:text="Humidity 99 %"/>-->
+
+<!--    </LinearLayout>-->
+
+
+
+<!--    <LinearLayout-->
+<!--        android:layout_marginTop="5dp"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="0dp"-->
+<!--        android:layout_weight="1"-->
+<!--        android:orientation="horizontal">-->
+
+
+<!--        <TextView-->
+<!--            android:fontFamily="@font/fo"-->
+<!--            android:id="@+id/srtv"-->
+<!--            android:drawableTop="@drawable/ic_daytime"-->
+<!--            android:textSize="25dp"-->
+<!--            android:textAlignment="center"-->
+<!--            android:textColor="#000000"-->
+<!--            android:layout_width="0dp"-->
+<!--            android:layout_height="match_parent"-->
+<!--            android:layout_weight="1"-->
+<!--            android:text="sunrase:3.15 am" />-->
+
+<!--        <TextView-->
+<!--            android:fontFamily="@font/fo"-->
+<!--            android:id="@+id/sstv"-->
+<!--            android:drawableTop="@drawable/ic_sunset__1_"-->
+<!--            android:textSize="25dp"-->
+<!--            android:textAlignment="center"-->
+<!--            android:textColor="#000000"-->
+<!--            android:layout_width="0dp"-->
+<!--            android:layout_height="match_parent"-->
+<!--            android:layout_weight="1"-->
+<!--            android:text="sunset:5.54 pm" />-->
+
+<!--    </LinearLayout>-->
+
+
+<!--</LinearLayout>-->
+
+
+
+
+
+
+
+
+
+
+    <!--<?xml version="1.0" encoding="utf-8"?>-->
+    <!--<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"-->
+    <!--android:layout_width="match_parent"-->
+    <!--    android:layout_height="match_parent"-->
+    <!--    android:orientation="vertical">-->
+
+
+    <!--    <TextView-->
+    <!--        android:textAlignment="center"-->
+    <!--        android:textSize="25dp"-->
+    <!--        android:textColor="#000000"-->
+    <!--        android:id="@+id/t1"-->
+    <!--        android:layout_margin="5dp"-->
+    <!--        android:layout_width="match_parent"-->
+    <!--        android:layout_height="0dp"-->
+    <!--        android:layout_weight="1"-->
+    <!--        android:background="#C0CA33"/>-->
+
+    <!--    <TextView-->
+    <!--        android:textAlignment="center"-->
+    <!--        android:textSize="25dp"-->
+    <!--        android:textColor="#000000"-->
+    <!--        android:id="@+id/t2"-->
+    <!--        android:layout_margin="5dp"-->
+    <!--        android:layout_width="match_parent"-->
+    <!--        android:layout_height="0dp"-->
+    <!--        android:layout_weight="1"-->
+    <!--        android:background="#E040FB"/>-->
+
+    <!--    <TextView-->
+    <!--        android:textAlignment="center"-->
+    <!--        android:textSize="25dp"-->
+    <!--        android:textColor="#000000"-->
+    <!--        android:id="@+id/t3"-->
+    <!--        android:layout_margin="5dp"-->
+    <!--        android:layout_width="match_parent"-->
+    <!--        android:layout_height="0dp"-->
+    <!--        android:layout_weight="1"-->
+    <!--        android:background="#5E35B1"/>-->
+
+
+    <!--    <TextView-->
+    <!--        android:textAlignment="center"-->
+    <!--        android:textSize="25dp"-->
+    <!--        android:textColor="#000000"-->
+    <!--        android:id="@+id/t4"-->
+    <!--        android:layout_margin="5dp"-->
+    <!--        android:layout_width="match_parent"-->
+    <!--        android:layout_height="0dp"-->
+    <!--        android:layout_weight="1"-->
+    <!--        android:background="#43A047"/>-->
+
+
+    <!--    <TextView-->
+    <!--        android:textAlignment="center"-->
+    <!--        android:textSize="25dp"-->
+    <!--        android:textColor="#000000"-->
+    <!--        android:id="@+id/t5"-->
+    <!--        android:layout_margin="5dp"-->
+    <!--        android:layout_width="match_parent"-->
+    <!--        android:layout_height="0dp"-->
+    <!--        android:layout_weight="1"-->
+    <!--        android:background="#E53935"/>-->
+
+
+    <!--</LinearLayout>-->
